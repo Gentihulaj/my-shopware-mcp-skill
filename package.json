@@ -1,0 +1,13 @@
+{
+  "name": "shopware-daily-report-skill",
+  "version": "1.0.0",
+  "description": "Daily report prompt injector for Claude",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "shopware-daily-report-skill": "./index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.1"
+  }
+}
